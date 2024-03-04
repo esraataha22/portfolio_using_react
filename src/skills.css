@@ -1,0 +1,93 @@
+#row {
+    height: 600px; 
+    background-color: rgb(71, 69, 69); 
+    text-align: center;
+}
+#ssk {
+    margin-top:50px; 
+    color:white;
+}
+
+.col-6 {
+    margin-top:50px;
+    justify-content: center;
+}
+.intro {
+    color:whitesmoke;
+}
+
+#skill {
+    margin-top:50px;
+}
+
+#focus {
+    color:whitesmoke;
+    font-size: 22px;
+}
+
+.focus {
+    color:whitesmoke;
+}
+
+#sk_html {
+    width:400px;
+    height:35px; 
+    background: linear-gradient(
+            to right,
+            rgb(207, 203, 204) 0%,
+            rgb(207, 203, 204) 80%,
+            white 80%,
+            white 100%);
+}
+
+#sk_css {
+    width:400px; 
+    height:35px; 
+    background: linear-gradient(
+            to right,
+            rgb(207, 203, 204) 0%,
+            rgb(207, 203, 204) 65%,
+            white 65%,
+            white 100%);
+}
+
+#sk_js {
+    width:400px; 
+    height:35px; 
+    background: linear-gradient(
+            to right,
+            rgb(207, 203, 204) 0%,
+            rgb(207, 203, 204) 90%,
+            white 90%,
+            white 100%);
+}
+
+#sk_react {
+    width:400px; 
+    height:35px; 
+    background: linear-gradient(
+        to right,
+        rgb(207, 203, 204) 0%,
+        rgb(207, 203, 204) 60%,
+        white 60%,
+        white 100%);
+}
+#sk_angular {
+    width:400px; 
+    height:35px; 
+    background: linear-gradient(
+            to right,
+            rgb(207, 203, 204) 0%,
+            rgb(207, 203, 204) 70%,
+            white 70%,
+            white 100%);
+}
+
+.courses {
+    margin-top:5px;
+}
+
+.sk {
+    width:100px; height:100%; 
+    background-color: gray;
+}

@@ -1,0 +1,39 @@
+#header {
+    /* border:1px brown solid; */
+    height: 450px;
+    background-image: url('./../src/assests/portofile.webp');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+ .name {
+    color: white;
+    font-weight: bold;
+    font-size: 50px;
+ }
+ .track {
+    color: white;
+ }
+
+ #info {
+    margin-top: 100px;
+ }
+/* #contact {
+    height: 40px;
+    width: 120px;
+    border: 2px white solid;
+    font-weight: bold;
+    color: white;
+    background-color:#0000;
+    box-shadow: 5px 5px 10px white;
+}
+
+#contact:hover {
+    height: 45px;
+    width: 122px;
+    border: 2px rgb(187, 136, 42) solid;
+    box-shadow: 5px 5px 10px rgb(187, 136, 42);
+
+
+} */
